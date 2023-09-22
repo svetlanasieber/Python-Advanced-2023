@@ -1,5 +1,5 @@
 # Software University (softuni.bg) - Python Advanced
-![185683680-bcfefe65-88fb-4192-b0b2-ff9130c39487](https://github.com/svetlanasieber/Python-Advanced/assets/135451084/f57174b1-3ea5-45d6-9058-8224ed3b0e7b)
+
 
 
 # 03_Lists as Stacks and Queues
