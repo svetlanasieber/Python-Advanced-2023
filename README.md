@@ -1,5 +1,5 @@
-# Python-Advanced
-# SoftUni Python Advanced
+# Software University (softuni.bg) - Python Advanced
+
 
 # 03_Lists as Stacks and Queues
 # 04_Exercise: Lists as Stacks and Queues
