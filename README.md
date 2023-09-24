@@ -2,9 +2,9 @@
 
 
 
- 03_Lists as Stacks and Queues
- 04_Exercise: Lists as Stacks and Queues
- 05_Tuples and Sets
+ # 03_Lists as Stacks and Queues
+ # 04_Exercise: Lists as Stacks and Queues
+ # 05_Tuples and Sets
 # 06_Exercise: Tuples and Sets
 # 07_Exercise: Stacks, Queues, Tuples and Sets
 # 08_Multidimensional Lists
