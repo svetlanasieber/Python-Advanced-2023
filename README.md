@@ -1,4 +1,5 @@
-# 📘 Educational Repository Software University (softuni.bg) - Python Advanced
+# 📘 Educational Repository Software University (softuni.bg)
+# Python Advanced
 
 
 
