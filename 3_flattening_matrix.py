@@ -1,8 +1,5 @@
-
-# matrix = [list(map(int, input().split(', '))) for x in range(int(input()))]    #ВЯРНО
 matrix = [list(map(int, input().split(', '))) for x in range(int(input()))]
-matrix2 = [[int(el) for el in input().split(', ')] for _ in range(int(input()))]  # КАТО FOR sickle
-# new_matrix = [ num for num in range(matrix[row])]
+matrix2 = [[int(el) for el in input().split(', ')] for _ in range(int(input()))] 
 
 print(matrix)
 new_matrix = []
