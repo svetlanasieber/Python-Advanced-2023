@@ -19,18 +19,26 @@
 
 
 
-
- # 03_Lists as Stacks and Queues
- # 04_Exercise: Lists as Stacks and Queues
- # 05_Tuples and Sets
-# 06_Exercise: Tuples and Sets
-# 07_Exercise: Stacks, Queues, Tuples and Sets
-# 08_Multidimensional Lists
-# 09_Exercise: Multidimensional Lists
-# 10_Exercise: Multidimensional Lists
-# 11_Functions Advanced
-# 12_Exercise: Functions Advanced
-# 13_Error Handling
-# 14_Exercise: Error Handling
-# 15_File Handling
-# 16_Exercise: File Handling
+| Lesson/Exercise                            |
+|-------------------------------------------|
+| Lists as Stacks and Queues                 |
+| Exercise: Lists as Stacks and Queues       |
+| Tuples and Sets                            |
+| Exercise: Tuples and Sets                  |
+| Exercise: Stacks, Queues, Tuples and Sets  |
+| Multidimensional Lists                     |
+| Exercise: Multidimensional Lists           |
+| Exercise: Multidimensional Lists           |
+| Functions Advanced                         |
+| Exercise: Functions Advanced                |
+| Error Handling                             |
+| Exercise: Error Handling                   |
+| File Handling                              |
+| Exercise: File Handling                    |
+| Workshop                                   |
+| Exercise: Workshop                         |
+| Modules                                    |
+| Exercise: Modules                          |
+| Exam Preparation                           |
+| Exam Preparation                           |
+| Algorithms Introduction                    |
